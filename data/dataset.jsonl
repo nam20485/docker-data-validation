@@ -1,0 +1,4 @@
+{"prompt": "Write a python loop.", "completion": "for i in range(10): print(i)", "token_length": 14}
+{"prompt": "What is 2+2?", "completion": "4", "token_length": 2}
+{"prompt": "", "completion": 3.14159, "token_length": -5}
+{"prompt": "Explain gravity.", "completion": "Gravity is...", "token_length": 15}
