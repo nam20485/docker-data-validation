@@ -4,5 +4,13 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"python.defaultInterpreterPath": "/home/nam20485/src/github/nam20485/docker-data-validation/.venv/bin/python",
+		"python.analysis.typeCheckingMode": "off"
+	},
+	"extensions": {
+		"recommendations": [
+			"detachhead.basedpyright"
+		]
+	}
 }
